@@ -1,6 +1,6 @@
 {
   "id": "UdqeoWJvEwmfOVuraOCpF",
-  "name": "New Workflow",
+  "name": "New Workfloww",
   "workflowName": "New Workflow",
   "itemType": "workflow",
   "appId": "YPNMqwEpErRivvVxfffhy",
@@ -83,6 +83,10 @@
   "mappings": {},
   "notes": [],
   "config": {
-    "name": "New Workflow"
+    "name": "New Workfloww",
+    "description": "",
+    "workflowAttributes": [],
+    "context": "",
+    "errorConfig": []
   }
 }
